@@ -1,0 +1,6 @@
+barrier_id,PAD_id,latitude,longitude,GGR_Status,2nd_Pass,2nd_Complete,date_assessed,assessed_by,barrier_type,Camera,Photos,Notes
+RNC_008_R,706215,34.39814,-119.45144,Gray,Y,,11/28/2018,"TP, SB, CH",R,Dark Knight,456 - 459,Arizona crossing
+RNC_009_R,706216,34.39869,-119.45123,red,Y,,11/28/2018,"TP, SB, CH",R,Dark Knight,460 - 463,Arizona crossing
+RNC_010_R,706217,34.40206,-119.44678,red,Y,,11/28/2018,"TP, SB, CH",R,Dark Knight,464 - 467,Arizona crossing
+RNC_011_R,706218,34.40395,-119.4467,red,Y,,11/28/2018,"TP, SB, CH",R,Dark Knight,468 - 471,Arizona crossing
+RNC_013_R,706220,34.40673,-119.44547,red,Y,,11/28/2018,"TP, SB, CH",R,Dark Knight,476 - 479,Arizona crossing
